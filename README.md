@@ -1,5 +1,5 @@
 # React Boilerplate
-```
+```bash
 Para criar um projeto com esse boilerplate utilize
 o comando `yarn create next-app -e https://github.com/matheusjustino/boilerplate`.
 ```
