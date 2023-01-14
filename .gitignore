@@ -1,9 +1,17 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# sw stuff
+public/sw.js
+public/workbox-*.js
+
+# envs
+.env
+
 # dependencies
 /node_modules
 /.pnp
 .pnp.js
+.vscode
 
 # testing
 /coverage
