@@ -17,7 +17,7 @@
 	},
 	"dependencies": {
 		"@next/font": "13.4.6",
-		"eslint": "^8.42.0",
+		"eslint": "^8.43.0",
 		"eslint-config-next": "13.4.6",
 		"next": "13.4.6",
 		"next-pwa": "^5.6.0",
