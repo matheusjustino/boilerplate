@@ -1458,10 +1458,10 @@
   resolved "https://registry.yarnpkg.com/@types/semver/-/semver-7.3.13.tgz#da4bfd73f49bd541d28920ab0e2bf0ee80f71c91"
   integrity sha512-21cFJr9z3g5dW8B0CVI9g2O9beqaThGQ6ZFBqHfwhzLDKUxaqTIy3vnfah/UPkfOiF2pLq+tGz+W8RyCskuslw==
 
-"@types/styled-components@^5.1.29":
-  version "5.1.29"
-  resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-5.1.29.tgz#a483d7829b972233455f1500930d6a7d30aa328e"
-  integrity sha512-5h/ah9PAblggQ6Laa4peplT4iY5ddA8qM1LMD4HzwToUWs3hftfy0fayeRgbtH1JZUdw5CCaowmz7Lnb8SjIxQ==
+"@types/styled-components@^5.1.30":
+  version "5.1.30"
+  resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-5.1.30.tgz#7f2b2c01245e3274083091517c7205c9ce9dd420"
+  integrity sha512-xxJqw0s1myRTgrzHgG5tKHS9hK+KNhjbKMXDWlHRo9eDNVVUqf147QUGYUqwyCDkFyGr2pi1qJKFMEy0ACZb0A==
   dependencies:
     "@types/hoist-non-react-statics" "*"
     "@types/react" "*"
