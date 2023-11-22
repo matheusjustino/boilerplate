@@ -1214,10 +1214,10 @@
   dependencies:
     glob "7.1.7"
 
-"@next/font@14.0.1":
-  version "14.0.1"
-  resolved "https://registry.yarnpkg.com/@next/font/-/font-14.0.1.tgz#f0ef9bce681ed3d66e05f20dad770c56b6ded790"
-  integrity sha512-Kbhhjn7Fj/YoZcRtUb6RuLm/2JffH76fbLiFnV4EGkq6wRUAVA5bwbpI1D9KgmvSyaC2taWnmIuMFpTWl9Q92Q==
+"@next/font@14.0.3":
+  version "14.0.3"
+  resolved "https://registry.yarnpkg.com/@next/font/-/font-14.0.3.tgz#c3e6886e28348d97bb2e7899d6cda6eebfebe399"
+  integrity sha512-M96skA6j99ri/J9+BpoDOoO9ntadHUyX2CmwSzsLDm3fL3hgyPfskH6Kd92sz6H8cr7ZHV3xNkCTggFvnLdq2Q==
 
 "@next/swc-darwin-arm64@14.0.1":
   version "14.0.1"
