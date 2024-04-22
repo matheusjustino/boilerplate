@@ -1259,10 +1259,10 @@
   dependencies:
     glob "10.3.10"
 
-"@next/font@14.1.4":
-  version "14.1.4"
-  resolved "https://registry.yarnpkg.com/@next/font/-/font-14.1.4.tgz#f522e0aa941421e07a83ea026bd6ed773c4cf3ea"
-  integrity sha512-a7CnpjEA3zXsKpCB7JX92mNiDYvjDImLfRjK+szi/q64vwbNrrs54up2xgFE1T4K1OE8GaI/eQ3zrZFWIbOJ1Q==
+"@next/font@14.2.2":
+  version "14.2.2"
+  resolved "https://registry.yarnpkg.com/@next/font/-/font-14.2.2.tgz#d0acf1cf664d23a4407356f029c84fc6ac28326b"
+  integrity sha512-I4GLq5ZsMJHO+WtV3gNhcspvZsbuteUmV56wC28hEsUbtlEawTI0EW4GNVJ8xdK6eRjua7unAt7zAXDgtOvxlw==
 
 "@next/swc-darwin-arm64@14.1.4":
   version "14.1.4"
