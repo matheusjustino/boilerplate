@@ -4823,10 +4823,10 @@ liftoff@^5.0.1:
     rechoir "^0.8.0"
     resolve "^1.20.0"
 
-lint-staged@^16.3.1:
-  version "16.3.1"
-  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-16.3.1.tgz#ab153ee630f0e07fa35d13992af79f42cc2e67a6"
-  integrity sha512-bqvvquXzFBAlSbluugR4KXAe4XnO/QZcKVszpkBtqLWa2KEiVy8n6Xp38OeUbv/gOJOX4Vo9u5pFt/ADvbm42Q==
+lint-staged@^16.3.3:
+  version "16.3.3"
+  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-16.3.3.tgz#ce5c95b5623cca295f8f4251f00c0642c7e84976"
+  integrity sha512-RLq2koZ5fGWrx7tcqx2tSTMQj4lRkfNJaebO/li/uunhCJbtZqwTuwPHpgIimAHHi/2nZIiGrkCHDCOeR1onxA==
   dependencies:
     commander "^14.0.3"
     listr2 "^9.0.5"
