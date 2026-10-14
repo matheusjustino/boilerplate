@@ -42,7 +42,7 @@
 		"husky": "^9.1.7",
 		"lint-staged": "^17.6.0",
 		"plop": "^4.0.5",
-		"prettier": "3.9.9",
+		"prettier": "3.9.10",
 		"typescript": "^7.0.2"
 	}
 }
